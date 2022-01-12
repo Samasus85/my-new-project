@@ -5,3 +5,4 @@ const Button = () => {
         <div></div>
     </div>
 }
+export default Button;
