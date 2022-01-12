@@ -1,0 +1,10 @@
+.FooterText {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana,
+        sans-serif;
+    width: 100%;
+    border: 1px solid yellow;
+}
+.Comment-text {
+    margin-bottom: 20px;
+    border: 1px solid;
+}
